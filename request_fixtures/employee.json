@@ -1,0 +1,6 @@
+{
+  "firstName": "{{$randomAlphaNumeric,400}}",
+  "lastName": "1233!!!!__++****,,,,",
+  "dependants": 0,
+  "salary": 0
+}
